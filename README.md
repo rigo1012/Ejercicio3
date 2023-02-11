@@ -23,3 +23,6 @@ intermedio el tercero y el primer numero sera el menor de estos
 *Si el primer numero no es mayor al segundo y el segundo a su vez no es mayor al primero, el numero mayor
 es el tercero, el segundo es el intermedio y el menor es el primero
 ~~~
+
+## 3.0 Diseño de la Solucion
+
