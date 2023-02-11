@@ -10,7 +10,10 @@ float numero1, numero2, numero3
 ++Proceso
 Solicitar los numeros 
 
-Si el primer numero es mayor que el segundo, y si el primero tambien es mayor al tercero, el numero mayor es el primero
-Si el segundo numero es mayor al tercero, el numero intermerdio es el segundo, y el numero menor es el tercero
-Si no
+*Si el primer numero es mayor que el segundo, y si el primero tambien es mayor al tercero, 
+el numero mayor es el primero
+*Si el segundo numero es mayor al tercero, el numero intermerdio es el segundo,
+y el numero menor es el tercero
+  -Si el segundo no es mayor que el tercer numero el numero mayor es el primer numero,
+  el intermedio el tercero y el segundo el menor
 ~~~
